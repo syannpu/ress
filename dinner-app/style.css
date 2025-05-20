@@ -1,0 +1,22 @@
+body {
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 450px;
+    color: green;
+}
+
+button {
+    margin-left: 60px;
+    padding: 20px 30px;
+    font-size: 18px;
+    cursor: pointer;
+
+}
+
+#menuDisplay {
+    text-align: left;
+     font-size: 30px;
+     color: darkslategray;
+}
