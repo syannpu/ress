@@ -1,0 +1,17 @@
+canvas { 
+    background-color: red;/* 画像のパスを指定 */
+    background-size: cover; /* 画像を画面全体に広げる */
+    background-repeat: no-repeat; /* 画像を繰り返ししない */
+    background-position: center; /* 画像を中央に配置する */
+    } 
+
+head {
+    padding: 0;
+    margin: 0;
+}
+
+canvas {
+        background: #eee;
+        display: block;
+        margin: 0 auto;
+      }
